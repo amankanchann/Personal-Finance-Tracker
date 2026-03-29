@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2025/02/01",
+        "amount": 50000.0,
+        "category": "Income",
+        "description": "Salary"
+    },
+    {
+        "date": "2025/02/01",
+        "amount": 10000.0,
+        "category": "Expense",
+        "description": "Rent"
+    },
+    {
+        "date": "2025/02/01",
+        "amount": 15000.0,
+        "category": "Expense",
+        "description": "Investment"
+    }
+]
